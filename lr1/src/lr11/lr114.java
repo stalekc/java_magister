@@ -13,5 +13,6 @@ public class lr114 {
         else{
             System.out.println("ne same");
         }
+        in.close();
     }
 }

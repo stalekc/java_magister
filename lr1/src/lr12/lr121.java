@@ -25,5 +25,6 @@ public class lr121 {
                 System.out.print(" ");
             }
         }
+        in.close();
     }
 }
