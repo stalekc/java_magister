@@ -40,5 +40,6 @@ public class lr1215 {
                 System.out.println("0");
             }
         }
+        in.close();
     }
 }
