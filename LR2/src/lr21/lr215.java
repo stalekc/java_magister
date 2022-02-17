@@ -37,8 +37,8 @@ public class lr215 {
                 }
             }
         }
-        System.out.println("words with only latin letters = " + String.valueOf(only_letters));
-        System.out.println("words with equal letters = " + String.valueOf(equal_letters));
+        System.out.println("words with only latin letters = " + only_letters);
+        System.out.println("words with equal letters = " + equal_letters);
         System.out.println("Developer: Stepanenko");
         System.out.println("Task date: 11.02.2022 17:25");
         System.out.print("Done date: ");
