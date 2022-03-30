@@ -12,8 +12,8 @@ import java.util.*;
 
 public class lr536 {
     public static void main(String[] args) throws IOException {
-        File file_in = new File("C:\\Users\\stale\\IdeaProjects\\java_magister\\lr5\\src\\lr53\\lr356_in.fts");
-        Path path = Paths.get("C:\\Users\\stale\\IdeaProjects\\java_magister\\lr5\\src\\lr53\\lr356_out.fts");
+        File file_in = new File("C:\\Users\\stale\\IdeaProjects\\java_magister\\lr5\\src\\lr53\\lr536_in.fts");
+        Path path = Paths.get("C:\\Users\\stale\\IdeaProjects\\java_magister\\lr5\\src\\lr53\\lr536_out.fts");
         Scanner in = new Scanner(file_in);
         String line;
         HashMap<String, Integer> key_words = filling();
