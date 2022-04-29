@@ -70,3 +70,4 @@ public class lr922 {
         System.out.println(my_stream.sorted((o1,o2) -> -o1.getName().compareTo(o2.getName())).collect(Collectors.toList()));
     }
 }
+
